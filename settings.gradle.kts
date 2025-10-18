@@ -1,5 +1,5 @@
 rootProject.name = "sodium"
-
+ 
 pluginManagement {
     repositories {
         mavenLocal()
